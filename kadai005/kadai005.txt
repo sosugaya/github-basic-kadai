@@ -1,0 +1,31 @@
+sousugaya@So-MacBook-Pro git_challenge % pwd
+/Users/sousugaya/Desktop/#SamuraiEngineer/samurai-lesson/git_challenge
+sousugaya@So-MacBook-Pro git_challenge % echo "Hello, world!" >> hello_world.txt
+dquote> 
+dquote> 
+sousugaya@So-MacBook-Pro git_challenge % echo "Hello, world!" >> hello_world.txt
+dquote> echo "Hello, world"! >> hello_world.txt
+dquote> pwd
+dquote> 
+sousugaya@So-MacBook-Pro git_challenge % echo "Hello, world!" >> hello_world.txt
+dquote> 
+sousugaya@So-MacBook-Pro git_challenge % echo "Hello, world"! >> hello_world.txt
+sousugaya@So-MacBook-Pro git_challenge % pwd
+/Users/sousugaya/Desktop/#SamuraiEngineer/samurai-lesson/git_challenge
+sousugaya@So-MacBook-Pro git_challenge % git log --oneline
+6c8f58d (HEAD -> main, origin/main) 日本語訳を追記
+526b617 hello_world.txtを追加
+7df0608 ファイルを削除
+8b29708 ファイル復元
+ea7ad2a テキストの消去
+31e8d6f Hello2n enter
+c04db22 Deleteしたよ
+151c69e 日本語訳を追記
+05da093 hello_world.txtを追加
+sousugaya@So-MacBook-Pro git_challenge % 
+
+
+
+
+
+
